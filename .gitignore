@@ -10,7 +10,7 @@ dist/
 web-build/
 
 #env
-.env*
+.env
 
 # Native
 *.orig.*
