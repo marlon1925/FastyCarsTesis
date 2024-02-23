@@ -1,4 +1,4 @@
-BACKEND_URL = 
+BACKEND_URL = https://tesis-backend-2cmn.onrender.com/api/
 API_KEY = 
 GOOGLE_MAPS_API_KEY = 
 MAPBOX_API_KEY = 
